@@ -1,0 +1,15 @@
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.AssemblyReference.cache
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.SuggestedBindingRedirects.cache
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form1.resources
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.NoviArtikl.resources
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.NoviProdavac.resources
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Properties.Resources.resources
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.GenerateResource.cache
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.CoreCompileInputs.cache
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.exe
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.pdb
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.IzaberiProdavca.resources
+C:\ASP\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Prodaja.resources
